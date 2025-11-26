@@ -8,6 +8,9 @@ I have years of experience working on data systems for financial services compan
 business/data analyst, analytics engineer, data engineer, full-stack software engineer/developer, data scientist — and in a few brief moments even DataOps/DevOps engineer and QA engineer.
 Basically I am always there to do what needs to be done for the company when duty calls.
 
+<details>
+  <summary><b>...</b></summary>
+
 ## 🛠️ My stack
 
 ### Programming languages
@@ -56,3 +59,4 @@ Basically I am always there to do what needs to be done for the company when dut
 
 
 
+</details>
